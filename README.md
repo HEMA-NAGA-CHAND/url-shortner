@@ -13,7 +13,3 @@ A modern fullstack boilerplate powered by:
 - **Tooling**: ESLint, Prettier, dotenv
 
 ---
-
-## 🙌 Contributing
-
-Feel free to fork and create PRs to improve the boilerplate!

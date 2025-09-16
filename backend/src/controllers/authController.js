@@ -93,3 +93,5 @@ export const loginWithGoogle = async (req, res) => {
         return res.status(500).json({ message: "Something Went Wrong", error: error.message });
     }
 }
+
+// authentication controller
